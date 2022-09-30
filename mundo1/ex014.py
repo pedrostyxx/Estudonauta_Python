@@ -1,4 +1,4 @@
-# Escreva um programa que converta uma temperatura em º C e converta para º F.
+# Escreva um programa que converta uma temperatura em º C e converta para º F
 
 value = float(input('Digite a temperatura em Graus Celsius: '))
 
